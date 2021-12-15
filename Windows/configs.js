@@ -1,12 +1,12 @@
 YL.static = {
   /** “关于”信息 */
-  softwareName: '吴邪IIIM', //网站名。请在此处填写您自己的网站名，如王小明的博客。
+  softwareName: 'Spyder', //网站名。请在此处填写您自己的网站名，如王小明的博客。
   version: "1.0.0", // 网站版本号
   iconBtnStart: 'html5', //主图标
   author: 'WXIIIM',//作者
-  contactInformation: 'QQ：2332179556',//联系方式
+  contactInformation: 'QQ：911',//联系方式
   officialWebsite: 'https://wxiiim.github.io',//软件官网
-  welcome: '本网站UI由 YLUI 强力驱动\n更多信息：//ylui.yuri2.cn',//加载完毕控制台提示信息
+  welcome: '',//加载完毕控制台提示信息
   copyrightDetail: '仅用于个人用户学习使用',//版权详细信息
   otherStatements: '',//其他信息（可留空）
 
