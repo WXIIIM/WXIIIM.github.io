@@ -217,10 +217,10 @@
             "autoRun": 0,
             "background": false,
             "badge": 0,
-            "desc": "个人博客",
+            "desc": "我的博客",
             "icon": {
                 "type": "img",
-                "content": "https://s1.ax1x.com/2020/05/17/YR20js.jpg",
+                "content": "https://s3.bmp.ovh/imgs/2021/12/84f36e4b1e0835ec.jpeg",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -240,8 +240,8 @@
                 "height": "y*0.8-80",
                 "width": "x*0.8"
             },
-            "title": "个人博客",
-            "url": "http://www.luckyzmj.cn",
+            "title": "我的博客",
+            "url": "http://wxiiim.github.io",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -670,7 +670,7 @@
                 "width": "x*0.8"
             },
             "title": "GoogleHacking",
-            "url": "http://luckyzmj.cn/GoogleHacking/",
+            "url": "http://wxiiim.github.io",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -827,7 +827,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "吴邪IIIM",
             "resizable": true,
             "single": false,
             "size": {
@@ -860,7 +860,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "吴邪IIIM",
             "resizable": true,
             "single": false,
             "size": {
@@ -1013,7 +1013,7 @@
                     "w": 6,
                     "h": 4,
                     "app": "yl-app-home",
-                    "title": "个人博客",
+                    "title": "我的博客",
                     "i": "147",
                     "params": {},
                     "hash": ""
@@ -1056,7 +1056,7 @@
             },
             "itemPushed-89": {
                 "app": "yl-app-home",
-                "title": "个人博客",
+                "title": "我的博客",
                 "params": {},
                 "hash": ""
             },
